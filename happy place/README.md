@@ -43,7 +43,7 @@ The data for the project was collected from:
 
 ## Final Infographic
 
-The final visualization captures the emotional narratives associated with each place and is represented by the Circle Packing diagram.
+The final visualization captures the emotional narratives associated with each place and is represented by the treemap.
 
 ![Happy Places Infographic](https://github.com/zouyang1026/SeattleVisProjects/raw/main/happy%20place/img/p4.png)
 
