@@ -1,0 +1,13 @@
+name,state,County,Postcode,rating,latitude,longitude,most_common_words
+Capitol Hill Comedy / Bar,WA,US,98102,5.0,47.62036721170040,-122.32069931729700,"['atmosphere', 'ambiance', 'flavorful', 'love', 'great', 'culinary', 'night', 'vibrant', 'flavorsome', 'cozy', 'comedy', 'chill', 'full', 'savory', 'delightful']
+"
+Donna’s,WA,US,98122,5.0,47.61664730055850,-122.3276014,"['welcoming', 'ambiance', 'great', 'flavorful', 'vibrant', 'atmospheregreat', 'foodgreat', 'workers', 'bsawesome', 'enjoyable', 'loving', 'everything', 'service', 'wifegiddy']
+"
+Five Iron Golf - Seattle,WA,US,98122,5.0,47.61481763188840,-122.3184079,"['ambiance', 'greg', 'welcoming', 'service', 'memorable', 'culinary', 'enbusk', 'flavorful', 'exquisite', 'enjoyable', 'weve', 'golf', 'discovered', 'venue']"
+KJs bar,WA,US,98102,5.0,47.61988719353870,-122.32313412698100,"['savor', 'relax', 'watch', 'great', 'mixology', 'vibrant', 'football', 'good', 'food', 'bartender', 'atmosphere', 'bar', 'experience', 'games']"
+Paper Fan Cocktail Bar,WA,US,98122,5.0,47.613975023459500,-122.3241431,"['welcoming', 'character', 'this', 'speakeasy', 'enjoyed', 'crafted', 'disappointed', 'guests', 'biang', 'such', 'an', 'incredible', 'experience', 'sophisticated']"
+The Traveling Goat,WA,US,98109,5.0,47.62525,-122.35688,"['cozy', 'my', 'selection', 'in', 'celebrated', 'very', 'stylish', 'patrons', 'hair', 'crafted', 'spot', 'acquired', 'on', 'occasion']"
+Bait Shop,WA,US,98102,4.5,47.624656,-122.320616,"['visited', 'selection', 'I', 'vibrant', 'mixology', 'was', 'bar', 'reveal', 'place', 'premises', 'inside', 'great', 'ventured', 'bait', 'shop']"
+Bar Cotto,WA,US,98122,4.5,47.6146934,-122.3127642,"['artisan', 'selection', 'pizza', 'delights', 'crafted', 'gathered', 'chosen', 'pretty', 'food', 'service', 'ambiance', 'savored', 'delightful', 'courses']"
+Basecamp Cafe,WA,US,98102,4.5,47.6212,-122.32183,"['indulged', 'welcoming', 'I', 'crafted', 'place', 'great', 'remark', 'say', 'satisfying', 'was', 'super', 'coffee', 'essence']"
+Belltown Provisions,WA,US,98121,4.5,47.61298202365980,-122.3443810454360,"['signature', 'mix', 'is', 'drinks', 'around', 'seattle', 'for', 'spot', 'I', 'one', 'specialty', 'favorite', 'in', 'themed']"
